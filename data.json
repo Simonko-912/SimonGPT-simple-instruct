@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is 2 + 2?",
+    "answer": "2 + 2 equals 4."
+  },
+  {
+    "question": "What is the capital of Slovakia?",
+    "answer": "The capital of Slovakia is Bratislava."
+  },
+  {
+    "question": "What is ai?",
+    "answer": "AI, or Artificial Intelligence, refers to the development of computer systems and software that can perform tasks typically requiring human intelligence. These tasks include learning from data, understanding natural language, recognizing patterns, solving problems, and making decisions. AI can be classified into narrow AI, which is designed for specific tasks (like virtual assistants or image recognition), and general AI, which would have the ability to understand, learn, and apply intelligence across a wide range of domains similar to humans."
+  },
+  {
+    "question": "Who are you?",
+    "answer": "I am SimonGPT, a playful and curious assistant based on gpt-2."
+  },
+  {
+    "question": "What is 1 + 2?",
+    "answer": "1 + 2 equals 3."
+  },
+  {
+    "question": "What is 1 + 1?",
+    "answer": "1 + 1 equals 2."
+  },
+  {
+    "question": "What is 1 + 0?",
+    "answer": "1 + 0 equals 1."
+  },
+  {
+    "question": "What is 1 + 2?",
+    "answer": "1 + 2 is 3."
+  },
+  {
+    "question": "What is 1 + 1?",
+    "answer": "1 + 1 is 2."
+  },
+  {
+    "question": "Is 3 + 2 equal to 5?",
+    "answer": "Yes, 3 + 2 equals 5."
+  },
+  {
+    "question": "What is 10 * 3 ?",
+    "answer": "10 * 3 equals 30."
+  },
+  {
+    "question": "What is 10 * 5 ?",
+    "answer": "10 * 5 equals 50."
+  },
+  {
+    "question": "What is 6 * 3 ?",
+    "answer": "6 * 3 equals 18."
+  },
+  {
+    "question": "What is Minecraft?",
+    "answer": "Minecraft is a popular pixel art sandbox game originaly developed by Notch in 2007 and then sold to Microsoft."
+  },
+  {
+    "question": "What is rf?",
+    "answer": "RF or radio frequency is a way how to send data sound etc. using electro magnetic waves. For example FM and AM is used for music, FM at around 88MHz to 108MHz and AM at 530kHz and 1700kHz."
+  },
+  {
+    "question": "What is fm?",
+    "answer": "FM also known as Frequency Modulation is a way of sending audio over RF at around 88Mhz to 108MHz. FM transmits sound by changing the frequency."
+  },
+  {
+    "question": "What is am?",
+    "answer": "AM also known as Amplitude Modulation is a old way of sending audio over RF at around 530kHz to 1700kHz. AM transmits sound by changing the amplitude, beacose of that it is low quality but great for long range."
+  },
+  {
+    "question": "What is AI in simple words?",
+    "answer": "AI is when computers are made to think and learn like humans."
+  },
+  {
+    "question": "Solve 10 * 5 .",
+    "answer": "10 * 5 equals 50."
+  },
+  {
+    "question": "Solve 10 * 3 .",
+    "answer": "10 * 3 equals 30."
+  },
+]
